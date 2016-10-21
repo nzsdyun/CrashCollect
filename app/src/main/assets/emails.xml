@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<email>
+    <from-list>
+        <host>smtp.163.com</host>
+        <port>25</port>
+        <item>
+            <account>nzsdyun@163.com</account>
+            <password>abcd994199723</password>
+        </item>
+    </from-list>
+	<to-list>
+        <item>1799058367@qq.com</item>
+	    <item>sky.chen@emporiatelecom.com</item>
+	</to-list>
+</email>
